@@ -1,0 +1,7 @@
+#Carpetas a ignorar
+CMakeLists.txt.user
+CMakeLists.txt.user*
+
+build/*
+
+build
